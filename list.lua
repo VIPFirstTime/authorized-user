@@ -1,7 +1,7 @@
 return {
-    ["SelectTestABFile"],
-    ["T_itle2004"],
-    ["asshohlol"],
-    ["UnauthorizedReality"],
-    ["Zolars_9341"],
+    ["SelectTestABFile"] = true,
+    ["T_itle2004"] = true,
+    ["asshohlol"] = true,
+    ["UnauthorizedReality"] = true,
+    ["Zolars_9341"] = true,
 }
