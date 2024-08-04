@@ -4,4 +4,5 @@ return {
     ["asshohlol"] = true,
     ["UnauthorizedReality"] = true,
     ["Zolars_9341"] = true,
+    ["LogicalUnbinarility"] = true,
 }
