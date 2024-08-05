@@ -235,7 +235,6 @@ Icon.ZIndex = 10
 Icon.SizeConstraint = "RelativeYY"
 Icon.Parent = ScreenGui
 Icon.Draggable = true
-Icon.Selectable = true
 
 local winsize = winsize or 0.49994444444444
 local windowsize = UDim2.new(0.41005555555556+winsize, 0, winsize,0)
